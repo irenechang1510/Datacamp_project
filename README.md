@@ -1,1 +1,1 @@
-# Datacamp_project
+# A guided project from Datacamp using R
