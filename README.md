@@ -1,1 +1,1 @@
-# A guided project from Datacamp 
+# Guided project from Datacamp 
